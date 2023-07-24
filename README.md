@@ -2,8 +2,6 @@
 
 Criar e estruturar o Banco de Dados de um e-commerce de livros
 
-| :placard: Vitrine.Dev |     |
-| -------------  | --- |
 | :sparkles: Nome        | **Clube do Livro**
 | :label: Tecnologias | Br_Modelo (tecnologia utilizada)
 | :rocket: URL         | [ModelagemBD-Clube do Livro](https://github.com/viniciusserrano/ModelagemBD)
