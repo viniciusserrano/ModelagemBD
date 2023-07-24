@@ -6,7 +6,7 @@ Criar e estruturar o Banco de Dados de um e-commerce de livros
 | :sparkles: Nome        | **Clube do Livro**
 | :label: Tecnologias | brModelo (brModelo 3.2 ER Databese Model)
 | :rocket: URL         | [ModelagemBD-Clube do Livro](https://github.com/viniciusserrano/ModelagemBD)
-| :fire: Desafio     | [Desafio Clube do Livro](desafio_ClubeDoLivro.brM3)
+| :fire: Desafio     | [Desafio Clube do Livro](Entrevista clube do livro.docx)
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](ClubeDoLivro.png#vitrinedev)
