@@ -10,7 +10,7 @@ Criar e estruturar o Banco de Dados de um e-commerce de livros
 | :fire: Desafio     | https://url-do-desafio.com.br
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=ClubeDoLivro.png#vitrinedev)
+![](ClubeDoLivro.png#vitrinedev)
 
 ## Detalhes do projeto
 
