@@ -1,7 +1,7 @@
 # Clube do Livro
 
 Criar e estruturar o Banco de Dados de um e-commerce de livros
-| :placard: Vitrine.Dev |     |
+| :placard: Project | Vinicius Serrano    |
 | -------------  | --- |
 | :sparkles: Nome        | **Clube do Livro**
 | :label: Tecnologias | brModelo (brModelo 3.2 ER Databese Model)
