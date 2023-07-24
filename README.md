@@ -7,7 +7,7 @@ Criar e estruturar o Banco de Dados de um e-commerce de livros
 | :sparkles: Nome        | **Clube do Livro**
 | :label: Tecnologias | Br_Modelo (tecnologia utilizada)
 | :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+| :fire: Desafio     | desafio_ClubeDoLivro.brM3
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](ClubeDoLivro.png#vitrinedev)
