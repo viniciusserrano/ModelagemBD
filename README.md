@@ -1,6 +1,6 @@
 # Clube do Livro
 
-Criar e estruturar o Banco de Dados de um e-commerce de livros
+Desenvolver um esquema de Banco de Dados para suportar um e-commerce especializado em livros.
 | 💾 Project | Vinicius Serrano    |
 | -------------  | --- |
 | :sparkles: Nome        | **Clube do Livro**
