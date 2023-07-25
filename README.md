@@ -13,8 +13,5 @@ Desenvolver um esquema de Banco de Dados para suportar um e-commerce especializa
 
 ## Detalhes do projeto
 
-Identifique um modelo lógico e um modelo físico de dados.
-Diferencie um modelo de alto nível de um modelo de baixo nível.
-Aplique técnicas de modelagem de dados.
-Diferencie o Modelo Entidade e Relacionamento (MER) do Diagrama Entidade e Relacionamento (DER).
-Elabore um modelo de banco de dados no brModelo.
+
+Neste projeto, aprendi sobre modelagem de dados, identificando o modelo lógico (abstrato e independente de SGBD) e o modelo físico (concreto, detalhado e específico para o SGBD). A diferença entre modelos de alto nível (conceitual, como o MER) e modelos de baixo nível (técnico, como o DER). Técnicas de modelagem para projetar um banco de dados eficiente e, para isso, utilizei a ferramenta brModelo. Com essas habilidades, poderemos criar bancos de dados sólidos e bem-estruturados, essenciais para garantir a qualidade e integridade dos dados do sistema.
