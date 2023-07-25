@@ -13,9 +13,8 @@ Desenvolver um esquema de Banco de Dados para suportar um e-commerce especializa
 
 ## Detalhes do projeto
 
-Identifique um modelo lógico e um modelo físico de dados
-Diferencie um modelo de alto nível de um modelo de baixo nível
-Aplique técnicas de modelagem de dados
-Diferencie o Modelo Entidade e Relacionamento (MER) do Diagrama Entidade e Relacionamento (DER)
-Elabore um modelo de banco de dados no brModelo
-
+Identifique um modelo lógico e um modelo físico de dados.
+Diferencie um modelo de alto nível de um modelo de baixo nível.
+Aplique técnicas de modelagem de dados.
+Diferencie o Modelo Entidade e Relacionamento (MER) do Diagrama Entidade e Relacionamento (DER).
+Elabore um modelo de banco de dados no brModelo.
